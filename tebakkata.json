@@ -1,0 +1,502 @@
+[
+    {
+        "index": 1,
+        "soal": "Apa hukum shalat bagi seorang Muslim yang sudah baligh?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 2,
+        "soal": "Apa nama zakat yang dikeluarkan pada bulan Ramadhan?",
+        "jawaban": "Zakat Fitrah"
+    },
+    {
+        "index": 3,
+        "soal": "Apa yang harus dilakukan seorang Muslim setelah mendengar adzan?",
+        "jawaban": "Menjawab adzan dan melaksanakan shalat"
+    },
+    {
+        "index": 4,
+        "soal": "Apa yang dimaksud dengan puasa Ramadhan?",
+        "jawaban": "Menahan diri dari makan dan minum dari fajar hingga maghrib"
+    },
+    {
+        "index": 5,
+        "soal": "Apa yang harus dilakukan jika seseorang meninggalkan shalat wajib?",
+        "jawaban": "Dosa besar dan harus bertaubat"
+    },
+    {
+        "index": 6,
+        "soal": "Apa nama ibadah yang dilakukan di Mekkah?",
+        "jawaban": "Haji"
+    },
+    {
+        "index": 7,
+        "soal": "Apa yang dimaksud dengan riba?",
+        "jawaban": "Praktik mengambil keuntungan dari pinjaman yang tidak adil"
+    },
+    {
+        "index": 8,
+        "soal": "Apa yang harus dilakukan jika seseorang berhadats besar?",
+        "jawaban": "Melakukan mandi junub"
+    },
+    {
+        "index": 9,
+        "soal": "Apa yang dimaksud dengan tayammum?",
+        "jawaban": "Menggunakan debu untuk bersuci ketika air tidak ada"
+    },
+    {
+        "index": 10,
+        "soal": "Apa hukum mencuri dalam Islam?",
+        "jawaban": "Haram dan dikenakan hukuman"
+    },
+    {
+        "index": 11,
+        "soal": "Apa yang dimaksud dengan shalat sunnah?",
+        "jawaban": "Shalat yang tidak wajib tetapi dianjurkan"
+    },
+    {
+        "index": 12,
+        "soal": "Apa nama shalat yang dilakukan pada malam hari di bulan Ramadhan?",
+        "jawaban": "Shalat Tarawih"
+    },
+    {
+        "index": 13,
+        "soal": "Apa yang harus dilakukan jika seseorang lupa dalam shalat?",
+        "jawaban": "Melakukan sujud sahwi"
+    },
+    {
+        "index": 14,
+        "soal": "Apa yang dimaksud dengan halal?",
+        "jawaban": "Ses sesuatu yang diperbolehkan dalam Islam"
+    },
+    {
+        "index": 15,
+        "soal": "Apa yang dimaksud dengan haram?",
+        "jawaban": "Ses sesuatu yang dilarang dalam Islam"
+    },
+    {
+        "index": 16,
+        "soal": "Apa hukum menikah dalam Islam?",
+        "jawaban": "Wajib jika mampu dan dianjurkan"
+    },
+    {
+        "index": 17,
+        "soal": "Apa yang dimaksud dengan ikhlas?",
+        "jawaban": "Melakukan ibadah semata-mata karena Allah"
+    },
+    {
+        "index": 18,
+        "soal": "Apa yang harus dilakukan jika seseorang meninggalkan puasa?",
+        "jawaban": "Harus mengganti puasa dan bertaubat"
+    },
+    {
+        "index": 19,
+        "soal": "Apa yang dimaksud dengan aqiqah?",
+        "jawaban": "Ibadah menyembelih hewan sebagai rasa syukur atas kelahiran anak"
+    },
+    {
+        "index": 20,
+        "soal": "Apa yang dimaksud dengan fidyah?",
+        "jawaban": "Pengganti bagi orang yang tidak mampu berpuasa"
+    },
+    {
+        "index": 21,
+        "soal": "Apa hukum memberi makan orang miskin?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 22,
+        "soal": "Apa yang dimaksud dengan sunnah muakkadah?",
+        "jawaban": "Sunnah yang sangat dianjurkan untuk dilakukan"
+    },
+    {
+        "index": 23,
+        "soal": "Apa yang dimaksud dengan shalat berjamaah?",
+        "jawaban": "Shalat yang dilakukan bersama-sama di satu tempat"
+    },
+    {
+        "index": 24,
+        "soal": "Apa hukum menjaga amanah?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 25,
+        "soal": "Apa yang dimaksud dengan hijrah?",
+        "jawaban": "Pindah dari satu tempat ke tempat lain untuk menjaga agama"
+    },
+    {
+        "index": 26,
+        "soal": "Apa hukum berhutang?",
+        "jawaban": "Diperbolehkan dengan niat baik"
+    },
+    {
+        "index": 27,
+        "soal": "Apa hukum berdoa?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 28,
+        "soal": "Apa yang dimaksud dengan al-Qur'an?",
+        "jawaban": "Kitab suci umat Islam"
+    },
+    {
+        "index": 29,
+        "soal": "Apa hukum menyakiti hati orang lain?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 30,
+        "soal": "Apa yang dimaksud dengan shalat id?",
+        "jawaban": "Shalat yang dilakukan pada hari raya"
+    },
+    {
+        "index": 31,
+        "soal": "Apa yang harus dilakukan jika seseorang tidak mampu membayar zakat?",
+        "jawaban": "Berusaha untuk membayar sesuai kemampuan"
+    },
+    {
+        "index": 32,
+        "soal": "Apa yang dimaksud dengan shalat sunnah rawatib?",
+        "jawaban": "Shalat sunnah yang dilakukan sebelum atau setelah shalat wajib"
+    },
+    {
+        "index": 33,
+        "soal": "Apa hukum mencintai Allah?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 34,
+        "soal": "Apa yang dimaksud dengan al-salam?",
+        "jawaban": "Salam atau ucapan selamat"
+    },
+    {
+        "index": 35,
+        "soal": "Apa hukum mempercayai ramalan?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 36,
+        "soal": "Apa yang dimaksud dengan shalat sunnah dhuha?",
+        "jawaban": "Shalat sunnah yang dilakukan di pagi hari"
+    },
+    {
+        "index": 37,
+        "soal": "Apa hukum mencintai sesama Muslim?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 38,
+        "soal": "Apa yang dimaksud dengan al-akhlaq?",
+        "jawaban": "Akhlak atau perilaku baik"
+    },
+    {
+        "index": 39,
+        "soal": "Apa hukum berpuasa di bulan Syawal?",
+        "jawaban": "Sunnah"
+    },
+    {
+        "index": 40,
+        "soal": "Apa yang dimaksud dengan al-‘ibadah?",
+        "jawaban": "Segala bentuk pengabdian kepada Allah"
+    },
+    {
+        "index": 41,
+        "soal": "Apa yang harus dilakukan jika seseorang melanggar puasa?",
+        "jawaban": "Harus mengganti puasa dan bertaubat"
+    },
+    {
+        "index": 42,
+        "soal": "Apa yang dimaksud dengan kafarat?",
+        "jawaban": "Tebusan atas pelanggaran ibadah"
+    },
+    {
+        "index": 43,
+        "soal": "Apa hukum bermain judi dalam Islam?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 44,
+        "soal": "Apa yang dimaksud dengan muamalah?",
+        "jawaban": "Interaksi sosial dan transaksi antar manusia"
+    },
+    {
+        "index": 45,
+        "soal": "Apa yang harus dilakukan setelah melaksanakan haji?",
+        "jawaban": "Menjaga akhlak dan ibadah"
+    },
+    {
+        "index": 46,
+        "soal": "Apa hukum berpuasa di hari Jumat saja?",
+        "jawaban": "Makruh"
+    },
+    {
+        "index": 47,
+        "soal": "Apa yang dimaksud dengan shalat khusuf?",
+        "jawaban": "Shalat sunnah yang dilakukan saat gerhana"
+    },
+    {
+        "index": 48,
+        "soal": "Apa hukum berzina dalam Islam?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 49,
+        "soal": "Apa yang harus dilakukan jika seseorang tidak menunaikan zakat?",
+        "jawaban": "Dosa dan harus membayarnya"
+    },
+    {
+        "index": 50,
+        "soal": "Apa yang dimaksud dengan al-jannah?",
+        "jawaban": "Surga"
+    },
+    {
+        "index": 51,
+        "soal": "Apa hukum bersedekah?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 52,
+        "soal": "Apa yang harus dilakukan jika seseorang meninggal dunia?",
+        "jawaban": "Mengurus jenazah dan menshalatinya"
+    },
+    {
+        "index": 53,
+        "soal": "Apa hukum berbohong untuk tujuan baik?",
+        "jawaban": "Diperbolehkan dalam keadaan tertentu"
+    },
+    {
+        "index": 54,
+        "soal": "Apa yang dimaksud dengan al-masjid?",
+        "jawaban": "Tempat ibadah bagi umat Islam"
+    },
+    {
+        "index": 55,
+        "soal": "Apa hukum menggigit kuku?",
+        "jawaban": "Makruh"
+    },
+    {
+        "index": 56,
+        "soal": "Apa yang dimaksud dengan shalat tahiyyat al-masjid?",
+        "jawaban": "Shalat sunnah yang dilakukan saat masuk masjid"
+    },
+    {
+        "index": 57,
+        "soal": "Apa hukum membunuh hewan tanpa alasan?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 58,
+        "soal": "Apa yang dimaksud dengan al-hijrah?",
+        "jawaban": "Pindah dari satu tempat ke tempat lain karena agama"
+    },
+    {
+        "index": 59,
+        "soal": "Apa hukum memfitnah?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 60,
+        "soal": "Apa yang dimaksud dengan al-muhasabah?",
+        "jawaban": "Mengevaluasi diri atas amal perbuatan"
+    },
+    {
+        "index": 61,
+        "soal": "Apa hukum merokok dalam Islam?",
+        "jawaban": "Makruh atau haram tergantung pada dampaknya"
+    },
+    {
+        "index": 62,
+        "soal": "Apa yang dimaksud dengan shalat istisqa?",
+        "jawaban": "Shalat untuk memohon hujan"
+    },
+    {
+        "index": 63,
+        "soal": "Apa hukum mengucapkan kata-kata kotor?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 64,
+        "soal": "Apa yang dimaksud dengan ijab dan qabul?",
+        "jawaban": "Pernyataan dan penerimaan dalam akad nikah"
+    },
+    {
+        "index": 65,
+        "soal": "Apa hukum menghormati orang tua?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 66,
+        "soal": "Apa yang dimaksud dengan al-iman?",
+        "jawaban": "Kepercayaan kepada Allah dan ajaran-Nya"
+    },
+    {
+        "index": 67,
+        "soal": "Apa hukum mencintai Rasulullah?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 68,
+        "soal": "Apa yang dimaksud dengan almsgiving?",
+        "jawaban": "Zakat atau sedekah"
+    },
+    {
+        "index": 69,
+        "soal": "Apa hukum menyakiti hewan?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 70,
+        "soal": "Apa yang dimaksud dengan al-‘ibadah?",
+        "jawaban": "Segala bentuk pengabdian kepada Allah"
+    },
+    {
+        "index": 71,
+        "soal": "Apa yang dimaksud dengan shalat sunnah qobliyah?",
+        "jawaban": "Shalat sunnah sebelum shalat wajib"
+    },
+    {
+        "index": 72,
+        "soal": "Apa hukum menutup aurat bagi wanita?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 73,
+        "soal": "Apa yang dimaksud dengan tawaf?",
+        "jawaban": "Mengelilingi Ka'bah dalam ibadah haji atau umrah"
+    },
+    {
+        "index": 74,
+        "soal": "Apa hukum menuntut ilmu dalam Islam?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 75,
+        "soal": "Apa yang dimaksud dengan shalat sunnah?",
+        "jawaban": "Shalat yang dianjurkan tetapi tidak wajib"
+    },
+    {
+        "index": 76,
+        "soal": "Apa hukum mencaci maki dalam Islam?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 77,
+        "soal": "Apa yang dimaksud dengan shalat tahajud?",
+        "jawaban": "Shalat sunnah yang dilakukan di malam hari"
+    },
+    {
+        "index": 78,
+        "soal": "Apa hukum berpuasa di bulan Ramadhan?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 79,
+        "soal": "Apa yang dimaksud dengan shalat fardhu?",
+        "jawaban": "Shalat yang wajib dilakukan"
+    },
+    {
+        "index": 80,
+        "soal": "Apa hukum menyakiti hati orang lain?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 81,
+        "soal": "Apa yang dimaksud dengan zakat mal?",
+        "jawaban": "Zakat yang dikeluarkan dari harta kekayaan"
+    },
+    {
+        "index": 82,
+        "soal": "Apa hukum berbohong?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 83,
+        "soal": "Apa yang dimaksud dengan al-jihad?",
+        "jawaban": "Usaha dan perjuangan di jalan Allah"
+    },
+    {
+        "index": 84,
+        "soal": "Apa hukum berbuat baik kepada tetangga?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 85,
+        "soal": "Apa yang dimaksud dengan shalat sunnah mutlak?",
+        "jawaban": "Shalat sunnah yang dapat dilakukan kapan saja"
+    },
+    {
+        "index": 86,
+        "soal": "Apa hukum berpuasa sunnah?",
+        "jawaban": "Sunnah"
+    },
+    {
+        "index": 87,
+        "soal": "Apa yang dimaksud dengan al-Qur'an?",
+        "jawaban": "Kitab suci umat Islam"
+    },
+    {
+        "index": 88,
+        "soal": "Apa hukum menyimpan harta haram?",
+        "jawaban": "Haram"
+    },
+    {
+        "index": 89,
+        "soal": "Apa yang dimaksud dengan al-falah?",
+        "jawaban": "Kebahagiaan dan keberuntungan"
+    },
+    {
+        "index": 90,
+        "soal": "Apa hukum menuntut keadilan?",
+        "jawaban": "Wajib"
+    },
+    {
+        "index": 91,
+        "soal": "Apa yang dimaksud dengan shalat sunnah rawatib?",
+        "jawaban": "Shalat sunnah yang dilakukan sebelum atau setelah shalat wajib"
+    },
+    {
+        "index": 92,
+        "soal": "Apa hukum berpuasa di hari Arafah?",
+        "jawaban": "Sunnah"
+    },
+    {
+        "index": 93,
+        "soal": "Apa yang dimaksud dengan shalat istikharah?",
+        "jawaban": "Shalat untuk meminta petunjuk Allah dalam mengambil keputusan"
+    },
+    {
+        "index": 94,
+        "soal": "Apa hukum mencintai sesama Muslim?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 95,
+        "soal": "Apa yang dimaksud dengan al-mubah?",
+        "jawaban": "Ses sesuatu yang diperbolehkan dalam Islam"
+    },
+    {
+        "index": 96,
+        "soal": "Apa hukum berdoa setelah shalat?",
+        "jawaban": "Sangat dianjurkan"
+    },
+    {
+        "index": 97,
+        "soal": "Apa yang dimaksud dengan al-mu'min?",
+        "jawaban": "Orang yang beriman kepada Allah"
+    },
+    {
+        "index": 98,
+        "soal": "Apa hukum tidak menunaikan shalat?",
+        "jawaban": "Dosa besar"
+    },
+    {
+        "index": 99,
+        "soal": "Apa yang dimaksud dengan al-masjid?",
+        "jawaban": "Tempat ibadah bagi umat Islam"
+    },
+    {
+        "index": 100,
+        "soal": "Apa hukum berpuasa pada hari Senin dan Kamis?",
+        "jawaban": "Sunnah"
+    }
+]
