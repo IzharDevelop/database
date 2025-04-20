@@ -25,127 +25,127 @@
     "pilihan": ["4", "5", "6", "7"]
   },
   {
-    "pertanyaan": "Kitab Arbain Nawawi berisi kumpulan hadis yang berjumlah...",
+    "soal": "Kitab Arbain Nawawi berisi kumpulan hadis yang berjumlah...",
     "pilihan": ["20", "30", "40", "50"],
     "jawaban": "40"
   },
   {
-    "pertanyaan": "Siapa nama lengkap Imam Nawawi yang menulis kitab Arbain Nawawi?",
+    "soal": "Siapa nama lengkap Imam Nawawi yang menulis kitab Arbain Nawawi?",
     "pilihan": ["Imam Ahmad bin Muhammad bin Hanbal", "Imam Malik bin Anas", "Imam Abu Hanifah An-Nu'man", "Imam Muhammad bin Yahya An-Nawawi"],
     "jawaban": "Imam Muhammad bin Yahya An-Nawawi"
   },
   {
-    "pertanyaan": "Apa tema utama dari hadis-hadis yang dikumpulkan dalam kitab Arbain Nawawi?",
+    "soal": "Apa tema utama dari hadis-hadis yang dikumpulkan dalam kitab Arbain Nawawi?",
     "pilihan": ["Hukum Islam", "Akhlak dan Etika", "Fiqh Ibadah", "Tafsir Al-Quran"],
     "jawaban": "Akhlak dan Etika"
   },
   {
-    "pertanyaan": "Hadis pertama dalam kitab Arbain Nawawi membahas tentang...",
+    "soal": "Hadis pertama dalam kitab Arbain Nawawi membahas tentang...",
     "pilihan": ["Keutamaan Shalat Dhuha", "Keutamaan Shalat Tahajud", "Keutamaan Shalat Jum'at", "Keutamaan Shalat Subuh"],
     "jawaban": "Keutamaan Shalat Subuh"
   },
   {
-    "pertanyaan": "Hadis tentang 'Siapa yang berbuat baik kepada orang lain, maka Allah akan berbuat baik kepadanya' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Siapa yang berbuat baik kepada orang lain, maka Allah akan berbuat baik kepadanya' terdapat dalam hadis ke...",
     "pilihan": ["1", "5", "10", "15"],
     "jawaban": "5"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan silaturahmi' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan silaturahmi' terdapat dalam hadis ke...",
     "pilihan": ["3", "7", "11", "13"],
     "jawaban": "7"
   },
   {
-    "pertanyaan": "Hadis tentang 'Siapa yang menjaga lisannya, maka Allah akan menjaga hatinya' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Siapa yang menjaga lisannya, maka Allah akan menjaga hatinya' terdapat dalam hadis ke...",
     "pilihan": ["4", "8", "12", "16"],
     "jawaban": "12"
   },
   {
-    "pertanyaan": "Hadis yang berisi 'Barangsiapa yang beriman kepada Allah dan hari akhir, maka hendaklah ia berkata baik atau diam' terdapat dalam hadis ke...",
+    "soal": "Hadis yang berisi 'Barangsiapa yang beriman kepada Allah dan hari akhir, maka hendaklah ia berkata baik atau diam' terdapat dalam hadis ke...",
     "pilihan": ["6", "10", "14", "18"],
     "jawaban": "18"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan bersedekah' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan bersedekah' terdapat dalam hadis ke...",
     "pilihan": ["2", "9", "17", "21"],
     "jawaban": "2"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan meminta ampun kepada Allah' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan meminta ampun kepada Allah' terdapat dalam hadis ke...",
     "pilihan": ["5", "13", "20", "25"],
     "jawaban": "20"
   },
   {
-    "pertanyaan": "Hadis tentang 'Orang yang paling dicintai Allah adalah orang yang paling banyak manfaatnya bagi orang lain' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Orang yang paling dicintai Allah adalah orang yang paling banyak manfaatnya bagi orang lain' terdapat dalam hadis ke...",
     "pilihan": ["10", "18", "22", "26"],
     "jawaban": "22"
   },
   {
-    "pertanyaan": "Hadis yang berisi 'Barangsiapa yang berbuat baik kepada orang lain, maka Allah akan berbuat baik kepadanya' terdapat dalam hadis ke...",
+    "soal": "Hadis yang berisi 'Barangsiapa yang berbuat baik kepada orang lain, maka Allah akan berbuat baik kepadanya' terdapat dalam hadis ke...",
     "pilihan": ["12", "20", "28", "32"],
     "jawaban": "12"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan menjaga lisan dan hati' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan menjaga lisan dan hati' terdapat dalam hadis ke...",
     "pilihan": ["15", "23", "31", "35"],
     "jawaban": "23"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan berpuasa' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan berpuasa' terdapat dalam hadis ke...",
     "pilihan": ["18", "26", "34", "38"],
     "jawaban": "34"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan Shalat Malam' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan Shalat Malam' terdapat dalam hadis ke...",
     "pilihan": ["21", "29", "37", "40"],
     "jawaban": "21"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan bersabar' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan bersabar' terdapat dalam hadis ke...",
     "pilihan": ["24", "32", "40", "42"],
     "jawaban": "32"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan menuntut ilmu' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan menuntut ilmu' terdapat dalam hadis ke...",
     "pilihan": ["27", "35", "43", "47"],
     "jawaban": "27"
   },
   {
-    "pertanyaan": "Hadis yang berisi 'Barangsiapa yang mencintai untuk bertemu dengan Allah, maka Allah pun mencintainya' terdapat dalam hadis ke...",
+    "soal": "Hadis yang berisi 'Barangsiapa yang mencintai untuk bertemu dengan Allah, maka Allah pun mencintainya' terdapat dalam hadis ke...",
     "pilihan": ["30", "38", "46", "50"],
     "jawaban": "46"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan berdzikir' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan berdzikir' terdapat dalam hadis ke...",
     "pilihan": ["33", "41", "49", "53"],
     "jawaban": "41"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan berwudhu' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan berwudhu' terdapat dalam hadis ke...",
     "pilihan": ["36", "44", "52", "56"],
     "jawaban": "36"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan beribadah' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan beribadah' terdapat dalam hadis ke...",
     "pilihan": ["39", "47", "55", "59"],
     "jawaban": "47"
   },
   {
-    "pertanyaan": "Hadis yang berisi 'Barangsiapa yang memperbaiki akhlaknya, maka Allah akan memperbaiki agamanya' terdapat dalam hadis ke...",
+    "soal": "Hadis yang berisi 'Barangsiapa yang memperbaiki akhlaknya, maka Allah akan memperbaiki agamanya' terdapat dalam hadis ke...",
     "pilihan": ["42", "50", "58", "62"],
     "jawaban": "58"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan berbuat baik' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan berbuat baik' terdapat dalam hadis ke...",
     "pilihan": ["45", "53", "61", "65"],
     "jawaban": "53"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan bersedekah' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan bersedekah' terdapat dalam hadis ke...",
     "pilihan": ["48", "56", "64", "68"],
     "jawaban": "48"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan mencintai Allah' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan mencintai Allah' terdapat dalam hadis ke...",
     "pilihan": ["51", "59", "67", "71"],
     "jawaban": "59"
   },
@@ -155,22 +155,22 @@
     "jawaban": "62"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan bergaul dengan orang baik' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan bergaul dengan orang baik' terdapat dalam hadis ke...",
     "pilihan": ["57", "65", "73", "77"],
     "jawaban": "65"
   },
   {
-    "pertanyaan": "Hadis yang menjelaskan tentang 'Keutamaan menghindari perbuatan dosa' terdapat dalam hadis ke...",
+    "soal": "Hadis yang menjelaskan tentang 'Keutamaan menghindari perbuatan dosa' terdapat dalam hadis ke...",
     "pilihan": ["60", "68", "76", "80"],
     "jawaban": "60"
   },
   {
-    "pertanyaan": "Hadis tentang 'Keutamaan bertobat' terdapat dalam hadis ke...",
+    "soal": "Hadis tentang 'Keutamaan bertobat' terdapat dalam hadis ke...",
     "pilihan": ["63", "71", "79", "83"],
     "jawaban": "71"
   },
   {
-    "pertanyaan": "Hadis yang berisi 'Barangsiapa yang membenci sesuatu, maka hendaklah ia meninggalkannya' terdapat dalam hadis ke...",
+    "soal": "Hadis yang berisi 'Barangsiapa yang membenci sesuatu, maka hendaklah ia meninggalkannya' terdapat dalam hadis ke...",
     "pilihan": ["66", "74", "82", "86"],
     "jawaban": "66"
   }
