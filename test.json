@@ -1,0 +1,55 @@
+{
+  "soal": [
+    {
+      "pertanyaan": "Siapa yang menciptakan alam semesta?",
+      "pilihan": ["Allah SWT", "Malaikat", "Nabi", "Manusia"],
+      "jawaban": "allah swt"
+    },
+    {
+      "pertanyaan": "Apa rukun Islam yang pertama?",
+      "pilihan": ["Syahadat", "Shalat", "Zakat", "Puasa"],
+      "jawaban": "syahadat"
+    },
+    {
+      "pertanyaan": "Siapa Nabi yang terakhir?",
+      "pilihan": ["Nabi Adam AS", "Nabi Ibrahim AS", "Nabi Muhammad SAW", "Nabi Isa AS"],
+      "jawaban": "nabi muhammad saw"
+    },
+    {
+      "pertanyaan": "Apa arti dari kata 'Islam'?",
+      "pilihan": ["Damai", "Sejahtera", "Berserah diri", "Beriman"],
+      "jawaban": "berserah diri"
+    },
+    {
+      "pertanyaan": "Berapa jumlah rukun Islam?",
+      "pilihan": ["4", "5", "6", "7"],
+      "jawaban": "5"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan shalat?",
+      "pilihan": ["Berdoa kepada Allah", "Berpuasa pada bulan Ramadhan", "Mengeluarkan zakat", "Beribadah dengan gerakan tertentu"],
+      "jawaban": "beribadah dengan gerakan tertentu"
+    },
+    {
+      "pertanyaan": "Siapa yang menerima wahyu pertama dari Allah?",
+      "pilihan": ["Nabi Muhammad SAW", "Nabi Ibrahim AS", "Nabi Musa AS", "Nabi Isa AS"],
+      "jawaban": "nabi muhammad saw"
+    },
+    {
+      "pertanyaan": "Apa hukum shalat bagi muslim?",
+      "pilihan": ["Wajib", "Sunnah", "Mubah", "Haram"],
+      "jawaban": "wajib"
+    },
+    {
+      "pertanyaan": "Berapa jumlah rakaat shalat fardhu sehari?",
+      "pilihan": ["15", "17", "20", "25"],
+      "jawaban": "17"
+    },
+    {
+      "pertanyaan": "Apa yang dimaksud dengan zakat?",
+      "pilihan": ["Memberikan sedekah kepada orang miskin", "Mengeluarkan sebagian harta untuk membersihkan diri", "Berpuasa pada bulan Ramadhan", "Beribadah dengan gerakan tertentu"],
+      "jawaban": "mengeluarkan sebagian harta untuk membersihkan diri"
+    },
+    // ... tambahkan soal lainnya
+  ]
+}
