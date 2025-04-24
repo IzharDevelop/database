@@ -173,5 +173,90 @@
     "soal": "Hadis yang berisi 'Barangsiapa yang membenci sesuatu, maka hendaklah ia meninggalkannya' terdapat dalam hadis ke...",
     "pilihan": ["66", "74", "82", "86"],
     "jawaban": "66"
+  },
+  {
+    "soal": "Apa rukun Islam yang pertama?",
+    "jawaban": "Syahadat",
+    "pilihan": ["Syahadat", "Shalat", "Zakat", "Puasa"]
+  },
+  {
+    "soal": "Apa nama kitab suci umat Islam?",
+    "jawaban": "Al-Qur'an",
+    "pilihan": ["Al-Qur'an", "Injil", "Taurat", "Veda"]
+  },
+  {
+    "soal": "Siapa nabi terakhir dalam Islam?",
+    "jawaban": "Nabi Muhammad SAW",
+    "pilihan": ["Nabi Isa", "Nabi Musa", "Nabi Muhammad SAW", "Nabi Ibrahim"]
+  },
+  {
+    "soal": "Apa yang dilakukan umat Islam saat bulan Ramadan?",
+    "jawaban": "Puasa",
+    "pilihan": ["Shalat", "Zakat", "Puasa", "Haji"]
+  },
+  {
+    "soal": "Apa nama tempat suci bagi umat Islam di Mekkah?",
+    "jawaban": "Ka'bah",
+    "pilihan": ["Masjid Nabawi", "Ka'bah", "Masjid Al-Aqsa", "Masjidil Haram"]
+  },
+  {
+    "soal": "Berapa kali sehari umat Islam diwajibkan untuk shalat?",
+    "jawaban": "Lima kali",
+    "pilihan": ["Tiga kali", "Lima kali", "Empat kali", "Dua kali"]
+  },
+  {
+    "soal": "Apa yang dimaksud dengan zakat?",
+    "jawaban": "Sedekah wajib",
+    "pilihan": ["Sedekah sukarela", "Sedekah wajib", "Haji", "Puasa"]
+  },
+  {
+    "soal": "Apa nama hari raya yang dirayakan setelah bulan Ramadan?",
+    "jawaban": "Idul Fitri",
+    "pilihan": ["Idul Adha", "Idul Fitri", "Maulid Nabi", "Tahun Baru Hijriyah"]
+  },
+  {
+    "soal": "Siapa yang dikenal sebagai 'Bapak Nabi'?",
+    "jawaban": "Nabi Ibrahim",
+    "pilihan": ["Nabi Muhammad", "Nabi Isa", "Nabi Ibrahim", "Nabi Musa"]
+  },
+  {
+    "soal": "Apa yang harus dilakukan sebelum shalat?",
+    "jawaban": "Wudhu",
+    "pilihan": ["Mandi", "Wudhu", "Tidur", "Makan"]
+  },
+  {
+    "soal": "Apa nama bulan puasa dalam Islam?",
+    "jawaban": "Ramadan",
+    "pilihan": ["Syawal", "Ramadan", "Dzulhijjah", "Muharram"]
+  },
+  {
+    "soal": "Apa yang dimaksud dengan haji?",
+    "jawaban": "Ibadah ke Mekkah",
+    "pilihan": ["Ibadah ke Mekkah", "Ibadah ke Madinah", "Ibadah ke Al-Aqsa", "Ibadah ke Ka'bah"]
+  },
+  {
+    "soal": "Siapa yang pertama kali masuk Islam?",
+    "jawaban": "Khadijah",
+    "pilihan": ["Abu Bakar", "Ali", "Khadijah", "Umar"]
+  },
+  {
+    "soal": "Apa yang harus dibaca sebelum memulai shalat?",
+    "jawaban": "Takbir",
+    "pilihan": ["Bismillah", "Takbir", "Al-Fatihah", "Salam"]
+  },
+  {
+    "soal": "Apa nama doa yang dibaca sebelum makan?",
+    "jawaban": "Bismillah",
+    "pilihan": ["Alhamdulillah", "Bismillah", "Subhanallah", "Allahu Akbar"]
+  },
+  {
+    "soal": "Apa yang dimaksud dengan sunnah?",
+    "jawaban": "Tindakan Nabi",
+    "pilihan": ["Tindakan Nabi", "Perintah Allah", "Larangan Allah", "Ibadah wajib"]
+  },
+  {
+    "soal": "Apa nama malaikat yang bertugas mencatat amal baik dan buruk?",
+    "jawaban": "Raqib dan Atid",
+    "pilihan": ["Jibril", "Mikail", "Raqib dan Atid", "Israfil"]
   }
 ]
