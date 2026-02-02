@@ -28,27 +28,23 @@ draw_line
 
 # 1. Update & Upgrade
 echo -e " ${B_YELLOW}${NC} ${WHITE}Step 1:${NC} Refreshing System Repositories..."
-sudo apt update && sudo apt upgrade -y > /dev/null 2>&1
-
+sudo apt update && sudo apt upgrade -y 
 # 2. Install Git & FFmpeg
 echo -e " ${B_YELLOW}${NC} ${WHITE}Step 2:${NC} Installing Core Media (Git & FFmpeg)..."
-sudo apt install -y git ffmpeg > /dev/null 2>&1
-
+sudo apt install -y git ffmpeg
 # 3. Install NVM & Node.js 24
 echo -e " ${B_YELLOW}${NC} ${WHITE}Step 3:${NC} Deploying NVM & Node.js v24..."
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash > /dev/null 2>&1
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash 
 
 # Load NVM
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-nvm install 24 > /dev/null 2>&1
-nvm use 24 > /dev/null 2>&1
-
+nvm install 24 
+nvm use 24 
 # 4. Update NPM & PM2
 echo -e " ${B_YELLOW}${NC} ${WHITE}Step 4:${NC} Boosting NPM & Global Process Manager (PM2)..."
-npm install -g npm@latest > /dev/null 2>&1
-npm install -g pm2 > /dev/null 2>&1
-
+npm install -g npm@latest
+npm install -g pm2
 clear
 # --- Ringkasan Akhir ---
 echo -e "${B_GREEN}"
