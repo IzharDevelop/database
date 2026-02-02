@@ -46,7 +46,8 @@ nvm use 24 > /dev/null 2>&1
 
 # 4. Update NPM & PM2
 echo -e " ${B_YELLOW}${NC} ${WHITE}Step 4:${NC} Boosting NPM & Global Process Manager (PM2)..."
-npm install -g npm@latest pm2 > /dev/null 2>&1
+npm install -g npm@latest > /dev/null 2>&1
+npm install -g pm2 > /dev/null 2>&1
 
 clear
 # --- Ringkasan Akhir ---
